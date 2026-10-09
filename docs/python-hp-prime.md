@@ -8,6 +8,10 @@ A HP não publicou documentação oficial de Python para a Prime. O manual de 20
 - Fórum do Museu HP, "Introduction to Python on the HP Prime" (julho de 2025): https://www.hpmuseum.org/forum/thread-23774.html
   - O primeiro post anexa um guia em PDF, "HP Prime Python Activities.pdf", que não foi baixado para este repositório.
 
+## Referência completa em espanhol
+
+Este repositório tem `Manual_HP_Prime_Comunidad_ES.pdf` (e a versão `.txt`), a ajuda embutida da Prime formatada pela comunidade. Ela inclui um índice de comandos Python (seção "Funciones en Python", de A a Z) e a descrição do módulo `hpprime`. Para consultar um comando, procure no `.txt`, por exemplo `Módulo Python hpprime`.
+
 ## O que se sabe
 
 - O interpretador é MicroPython. A lista de módulos e funções aparece no próprio aparelho, no menu CMDS do app Python.

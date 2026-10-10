@@ -1,5 +1,7 @@
 # Mapa do site de simuladores e calculadoras de Engenharia Química
 
+**Status: proposta inicial (v0.1), 2026-10-10.**
+
 Documento de planejamento. **Tudo aqui é proposta**: nenhuma decisão está tomada até o autor validar. O site entra nas atualizações futuras do TCC, depois da entrega.
 
 ## 1. Ponto de partida (o que já existe)
